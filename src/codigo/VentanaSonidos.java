@@ -1210,7 +1210,7 @@ public class VentanaSonidos extends javax.swing.JFrame {
 
     private void jButton58MousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jButton58MousePressed
          reproduce ("/sonidos/ThugLife.wav");
-         muestraGif("snoopDog3.gif");
+         muestraGif("snoopDog.gif");
     }//GEN-LAST:event_jButton58MousePressed
 
     private void jMenuItem15MousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jMenuItem15MousePressed
@@ -1236,6 +1236,7 @@ public class VentanaSonidos extends javax.swing.JFrame {
 
     private void jButton63MousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jButton63MousePressed
         reproduce("/sonidos/queNo.wav");
+        muestraGif("madremia.gif");
     }//GEN-LAST:event_jButton63MousePressed
 
     /**
