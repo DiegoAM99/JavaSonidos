@@ -1228,6 +1228,7 @@ public class VentanaSonidos extends javax.swing.JFrame {
 
     private void jButton61MousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jButton61MousePressed
         reproduce("/sonidos/siuuu.wav");
+        muestraGif("siu.gif");
     }//GEN-LAST:event_jButton61MousePressed
 
     private void jButton62MousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jButton62MousePressed
